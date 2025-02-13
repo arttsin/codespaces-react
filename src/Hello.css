@@ -1,0 +1,7 @@
+.block{
+    border: 2px solid red;
+    margin-bottom: 10px;
+}
+.block:hover{
+    background-color: rgba(255, 103, 204, 0.836);
+}
